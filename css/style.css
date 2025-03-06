@@ -558,6 +558,9 @@ a:focus {
   height: auto;
   min-width: 100%;
   min-height: 100%;
+  
+  object-fit: cover;
+  object-position: center;
 }
 
 .track_section .track_bg_box::before {
